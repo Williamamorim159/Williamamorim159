@@ -1,21 +1,12 @@
-### Olá eu sou William Amorim 😎
+<img align="right" src="https://www.imagensanimadas.com/data/media/1099/cafe-imagem-animada-0041.gif" border="0" alt="cafe-imagem-animada-0001" /></a>/>
 
-</br>
+### Hi I'm William Amorim 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-amorim-3712511a4/)
-</br>
+Passionate about programming and technology. Always looking to learn more to do my best and bring more solutions to problems in the world.
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamamorim159&show_icons=true&theme=radical)
-</br>
-</br>
+Currently I've been studying ways to write readable and maintainable code quickly and easily, through software architectures, principles and good programming practices.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamamorim159)](https://github.com/anuraghazra/github-readme-stats)
+I love studying, learning and sharing new things.
 
-## Tecnologias que uso no meu dia
-<div style="display: inline-block">
-    <img alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" aling="center"/>
-    <img alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" aling="center">
-
-
-</div>
+Meet me elsewhere 🌎
 
