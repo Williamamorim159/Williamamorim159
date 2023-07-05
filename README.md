@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá eu sou William Amorim 😎
 
-<!--
-**Williamamorim159/Williamamorim159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-amorim-3712511a4/)
 
-Here are some ideas to get you started:
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamamorim159&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que uso no meu dia
+<div style="display: inline-block">
+    <img alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" aling="center"/>
+    <img alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" aling="center">
+
+
+</div>
