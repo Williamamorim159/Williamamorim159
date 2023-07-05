@@ -1,9 +1,15 @@
 ### Olá eu sou William Amorim 😎
 
+</br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-amorim-3712511a4/)
+</br>
 
 ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamamorim159&show_icons=true&theme=radical)
+</br>
+</br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamamorim159)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block">
@@ -12,3 +18,4 @@
 
 
 </div>
+
